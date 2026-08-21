@@ -2,11 +2,12 @@
   "name": "Tavern Tutor — A D&D Learning Game",
   "short_name": "Tavern Tutor",
   "description": "Learn Dungeons & Dragons 5e on your phone before you join a live table.",
-  "start_url": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#14100e",
   "theme_color": "#14100e",
   "icons": [
-    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ]
 }
